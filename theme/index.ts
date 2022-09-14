@@ -4,9 +4,7 @@ import styles from "./styles";
 import breakpoints from "./foundations/breakpoints";
 import colors from "./foundations/colors";
 import fonts from "./foundations/fonts";
-import fontSizes from "./foundations/fontSizes";
 import layerStyles from "./foundations/layerStyles";
-import sizes from "./foundations/sizes";
 import textStyles from "./foundations/textStyles";
 
 const overrides = {
@@ -15,9 +13,7 @@ const overrides = {
   breakpoints,
   colors,
   fonts,
-  fontSizes,
   layerStyles,
-  sizes,
   textStyles,
   components: {},
 };
