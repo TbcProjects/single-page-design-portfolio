@@ -1,5 +1,11 @@
 const styles = {
-  global: {},
+  global: {
+    body: {
+      background: "light_cream",
+      color: "black"
+    },
+    
+  },
 };
 
 export default styles;
