@@ -1,4 +1,6 @@
 const colors = {
+  black: "#030303",
+  medium_brown: "#7A746E",
   light_cream: "#FFF7F0",
   galactic_blue: "#755CDE",
   summer_yellow: "#F6A560",
