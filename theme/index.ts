@@ -7,6 +7,9 @@ import fonts from "./foundations/fonts";
 import layerStyles from "./foundations/layerStyles";
 import textStyles from "./foundations/textStyles";
 
+// components
+import Button from "./components/button";
+
 const overrides = {
   config,
   styles,
@@ -15,7 +18,9 @@ const overrides = {
   fonts,
   layerStyles,
   textStyles,
-  components: {},
+  components: {
+    Button,
+  },
 };
 
 const theme = extendTheme(overrides);
