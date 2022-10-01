@@ -36,6 +36,7 @@ const textStyles = {
     fontSize: { base: "1em", xl: "1.125rem" },
     fontWeight: "bold",
     lineHeight: { base: "1.625rem", xl: "1.75rem" },
+    color: "medium_brown",
   },
   button: {
     fontSize: { base: "0.875em", xl: "1rem" },
